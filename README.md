@@ -1,6 +1,6 @@
 # notebooks
 
-the python lab - a collection of small experiments and unfinished ideas.
+the python lab - a collection of small experiments, unfinished ideas, and one-time scripts.
 
 ## 🌈 [hilbert curves](hilbert_curves.ipynb)
 
@@ -14,3 +14,9 @@ implements bittorrent protocol bencode decoding and demonstrates it against the 
 
 * [The BitTorrent Protocol Specification](https://www.bittorrent.org/beps/bep_0003.html)
 * [DHT Protocol](https://www.bittorrent.org/beps/bep_0005.html)
+
+## 🚲 [strava remediation](strava_remediation.ipynb)
+
+this was used interactively to read and fix strava activity data to correctly categorise and set gear.#
+
+* [stravalib](https://github.com/hozn/stravalib)
