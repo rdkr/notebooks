@@ -17,6 +17,6 @@ implements bittorrent protocol bencode decoding and demonstrates it against the 
 
 ## 🚲 [strava remediation](strava_remediation.ipynb)
 
-this was used interactively to read and fix strava activity data to correctly categorise and set gear.#
+this connects to Strava as an OAuth client and was used interactively to read and fix activity data in order to fix incorrectly categorised / tagged rides.
 
 * [stravalib](https://github.com/hozn/stravalib)
